@@ -1,2 +1,3 @@
 # apnacollege-demo
-This is my third Git repository.
+This is my third Git repository. 
+Author - Mohammad Hassan, Hussaini
